@@ -1,7 +1,7 @@
 link to github repo: 
 https://github.com/ItsSheWhoSees/August_2025.git
 
-**Commands used**: 
+Commands used: 
 git init 
 git config --global username
 git config --global user.email
