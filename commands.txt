@@ -1,0 +1,11 @@
+link to github repo: 
+https://github.com/ItsSheWhoSees/August_2025.git
+
+**Commands used**: 
+git init 
+git config --global username
+git config --global user.email
+git add .
+git commit -m "Message"
+git remote -v (to check if its connected)
+git remote add origin master
