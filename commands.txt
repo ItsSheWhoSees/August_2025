@@ -9,3 +9,8 @@ git add .
 git commit -m "Message"
 git remote -v (to check if its connected)
 git remote add origin master
+git push "name of the file"
+git status
+git branch
+git switch "branch name"
+git restore "file name"
